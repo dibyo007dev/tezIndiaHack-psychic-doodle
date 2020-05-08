@@ -1,1 +1,1 @@
-./utils/SmartPyBasic/SmartPy.sh run ./contract/demo.py
+./utils/SmartPyBasic/SmartPy.sh run ./contract/dataTokenizer.py
